@@ -1,0 +1,6 @@
+example_mouse/
+__pycache__/
+.vscode/
+.DS_Store
+._*
+*.pyc
